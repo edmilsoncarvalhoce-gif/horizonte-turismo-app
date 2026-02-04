@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { PublicSite } from './components/PublicSite';
-import { AdminDashboard } from './components/AdminDashboard';
+import { PublicSite } from './PublicSite';
+import { AdminDashboard } from './AdminDashboard';
 import { TravelPackage, Booking, ChartData, Review } from './types';
 import { Monitor, Layout } from 'lucide-react';
 
